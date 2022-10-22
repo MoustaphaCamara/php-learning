@@ -1,0 +1,10 @@
+body {
+  background: rgb(202, 202, 202);
+}
+#messages {
+  text-align: center;
+  width: 80%;
+  background: rgba(0, 0, 0, 0.368);
+  color: white;
+  margin: 0 auto;
+}
